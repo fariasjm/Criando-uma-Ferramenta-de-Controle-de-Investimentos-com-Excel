@@ -1,20 +1,12 @@
-# InvestEasy - Simulador Financeiro 🌟
+# JF InVest - Simulador de Investimento
 
-## Descrição do Projeto 📝
+## Funcionalidades
 
-O **InvestEasy** é um simulador financeiro construído em Excel, destinado a facilitar a tomada de decisão dos investidores em fundos imobiliários. Desenvolvido em um laboratório prático, o projeto aplica conceitos avançados do Excel para automatizar cálculos complexos e permitir simulações precisas de investimentos. Com ele, o usuário pode explorar diferentes cenários e visualizar o impacto das variáveis no patrimônio acumulado e nos dividendos mensais.
+1. Criação do Banner
+- Criação de um banner moderno com o logo "JF InVest" como identidade visual do simulador.
 
----
-
-## Funcionalidades Desenvolvidas
-
-### 1. Criação do Banner 🎨
-- **Descrição:** Criação, com auxílio de IA, de um banner moderno com o logo do app "InvestEasy".
-- **Objetivo:** Oferecer uma identidade visual marcante e reforçar a temática financeira e o profissionalismo do simulador.
-
-### 2. Tabelas de Apoio 📊
-- **Descrição:** Desenvolvimento de tabelas auxiliares que organizam e sistematizam os dados utilizados nos cálculos da planilha.
-- **Objetivo:** Facilitar a análise dos dados, garantindo que os cálculos e simulações se baseiem em informações bem estruturadas.
+2. Tabelas de Apoio
+- Criação de tabelas auxiliares que organizam os dados e cálculos da planilha para facilitar a análise dos dados.
 
 ### 3. Variáveis Globais ⚙️
 - **Descrição:** Definição de parâmetros essenciais como variáveis globais:
